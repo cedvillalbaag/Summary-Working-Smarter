@@ -125,7 +125,7 @@ To have a good foundation for personal productivity, the following building bloc
   - Document your processes for when you delegate your work.
   - Create habits (making sure you do tasks the same way every time.)
 
-##### 14.	Take a snapshot of your work before vacation.
+#### 14.	Take a snapshot of your work before vacation.
 
 #### 15. Focus on one thing at a time
 - To maintain focus on one thing, do the following:
