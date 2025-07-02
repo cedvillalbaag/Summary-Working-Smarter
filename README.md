@@ -59,12 +59,12 @@ To have a good foundation for personal productivity, the following building bloc
 - It improves brain performance.
 - You should keep a glass of water at your desk.
 
-##### 6.	Identify the most important tasks and do them first.
+#### 6.	Identify the most important tasks and do them first.
 - To define the importance of tasks consider:
   - The long-term effect.
   - The short-term effect.
 
-##### 7.	Ask the following questions about your next meeting
+#### 7.	Ask the following questions about your next meeting
 - Do I have to attend?
 - Is it possible to conduct it virtually?
 - Is the meeting necessary?
@@ -107,7 +107,7 @@ To have a good foundation for personal productivity, the following building bloc
   - Eat a healthy snack
   - Go outside and breathe fresh air.
 
-##### 12.	Take care of your toads the right way.
+#### 12.	Take care of your toads the right way.
 - If there is one task that we tend to put off more than any other, it is a “Frog Task”.
 - If you take care of the most challenging task first thing in the morning, the rest of the day will go much smoother.
 - The longer you go without finishing that task, the more you keep thinking about it.
@@ -134,7 +134,7 @@ b. If necessary, create a plan for executing the task.
 c. Control distractions around you as much as possible.
 d. Take advantage of time blocking when performing a task.
 
-##### 16.	Control busy work
+#### 16.	Control busy work
 - Consider the following suggestions:
   - Learn to say NO.
   - Review which tasks are most important, and proceed according to priorities.
@@ -155,7 +155,7 @@ d. Take advantage of time blocking when performing a task.
 #### 18.	Know what you spend your time on the computer.
 - Once you know how you spend your days, you will start making a systematic change that will increase the productivity ratio of your day.
 
-#### Conclusion:
+### Conclusion:
 - The most important thing is that you put these tips into action and truly put them to the test. This is the only way to make your days more organized and productive.
 
 ### References
